@@ -13,7 +13,7 @@ Dequani Webite is an Ecommerce website that sell original products we can check 
 <img src="https://github.com/MohitChachra/Dequani-Details/blob/main/images/App%20screenshots/4.jpg" height="600" width="300"/><img src="https://github.com/MohitChachra/Dequani-Details/blob/main/images/App%20screenshots/5.jpg" height="600" width="300"/><img src="https://github.com/MohitChachra/Dequani-Details/blob/main/images/App%20screenshots/6.jpg" height="600" width="300"/><img src="https://github.com/MohitChachra/Dequani-Details/blob/main/images/App%20screenshots/7.jpg" height="600" width="300"/>
 
 # Website Screenshots
-<img src="https://github.com/MohitChachra/Dequani-Details/blob/main/images/Website%20Screenshots/1.png" height="400" width="700"/>
+<iframe src="http://dequani.com/" height="400" width="700"/>
   
   
   
